@@ -14,5 +14,21 @@
     "decimals": 18,
     "chainId": 4002,
     "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
-  }
+  },
+  {
+      "name": "Fantom fUSDT",
+      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+      "symbol": "FUSDT",
+      "decimals": 6,
+      "chainId": 4002,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    },
+    {
+      "name": "Wrapped GLU",
+      "address": "0x815C8eE94c5a97C1665B2f1152126db5CA694755",
+      "symbol": "GLU",
+      "decimals": 18,
+      "chainId": 4002,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    }
 ]

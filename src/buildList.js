@@ -35,7 +35,7 @@ module.exports = function buildList() {
     logoURI: "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
     keywords: ["sushiswap", "default"],
     tokens: [
-      ...mainnet,
+      /*...mainnet,
       ...ropsten, 
       ...goerli, 
       ...kovan, 
@@ -55,7 +55,9 @@ module.exports = function buildList() {
       ...harmony,
       ...harmonyTestnet,
       ...okex,
-      ...okexTestnet
+      ...okexTestnet*/
+      ...fantom,
+      ...fantomTestnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
