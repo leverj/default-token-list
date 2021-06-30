@@ -55,8 +55,8 @@ module.exports = function buildList() {
       ...harmony,
       ...harmonyTestnet,
       ...okex,
-      ...okexTestnet*/
-      ...fantom,
+      ...okexTestnet
+      ...fantom,*/
       ...fantomTestnet
     ]
       // sort them by symbol for easy readability
